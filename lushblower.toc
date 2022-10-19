@@ -1,0 +1,6 @@
+## Interface: 90207
+## Title: Lushblowers Addon
+## Author: Lushblower
+## Version: 0.1
+
+main.lua
